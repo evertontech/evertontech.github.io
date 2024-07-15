@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/evertontech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evertontech" height="30" width="40" /></a>
 <a href="https://instagram.com/evertontec73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evertontec73" height="30" width="40" /></a>
+<a href="https://t.me/evertontech" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="evertontech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
